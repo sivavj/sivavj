@@ -5,7 +5,7 @@ I'm a software developer with a passion for building web applications and contri
 - 💻 **Languages:** JavaScript, TypeScript, Python
 - 🌐 **Frameworks:** React, Node.js
 - 🛠️ **Tools:** VS Code, Git, Docker
-- 📫 **Contact:** [Email](mailto:sivavj002@gmal.cpm) | [LinkedIn](https://www.linkedin.com/in/sivavj) | [Twitter](https://twitter.com/sivavj)
+- 📫 **Contact:** [Email](mailto:sivavj002@gmal.cpm) | [LinkedIn](https://www.linkedin.com/in/sivavj) | [Twitter](https://twitter.com/sivavj002)
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true)
@@ -19,7 +19,7 @@ I'm a software developer with a passion for building web applications and contri
 
 ## 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/sivavj)
-- [Twitter](https://twitter.com/sivavj)
+- [Twitter](https://twitter.com/sivavj002)
 - [Portfolio](https://your-portfolio.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
