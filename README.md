@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Siva👋
 
-<!--
-**sivavj/sivavj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a passion for building web applications and contributing to open-source projects. Here are some of my areas of expertise:
 
-Here are some ideas to get you started:
+- 💻 **Languages:** JavaScript, TypeScript, Python
+- 🌐 **Frameworks:** React, Node.js
+- 🛠️ **Tools:** VS Code, Git, Docker
+- 📫 **Contact:** [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-profile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true)
+
+## 🌟 Pinned Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repository-name)](https://github.com/your-username/repository-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repository-name)](https://github.com/your-username/repository-name)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)
+
+## 🤝 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+- [Portfolio](https://your-portfolio.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
