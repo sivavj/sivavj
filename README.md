@@ -15,7 +15,7 @@ I'm a software developer with a passion for building web applications and contri
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repository-name)](https://github.com/your-username/repository-name)
 
 ## 🏆 GitHub Trophies
-![trophy]([https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark](https://github.com/sivavj?achievement=quickdraw&tab=achievements))
+![trophy]([https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark](https://github.com/sivavj?achievement=quickdraw&tab=achievements)](https://github.com/users/sivavj/achievements/quickdraw))
 
 ## 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/sivavj)
